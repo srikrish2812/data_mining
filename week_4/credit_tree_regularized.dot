@@ -100,7 +100,7 @@ edge [fontname="helvetica"] ;
 47 -> 48 ;
 49 [label="entropy = 0.968\nsamples = 205\nvalue = [124, 81]\nclass = No"] ;
 47 -> 49 ;
-50 [label="age <= 62.0\nentropy = 0.414\nsamples = 24\nvalue = [22, 2]\nclass = No"] ;
+50 [label="armed <= 76.5\nentropy = 0.414\nsamples = 24\nvalue = [22, 2]\nclass = No"] ;
 46 -> 50 ;
 51 [label="entropy = 0.258\nsamples = 23\nvalue = [22, 1]\nclass = No"] ;
 50 -> 51 ;
